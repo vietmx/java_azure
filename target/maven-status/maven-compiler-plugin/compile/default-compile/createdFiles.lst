@@ -1,0 +1,4 @@
+com\maixuanviet\springboot\azure\User.class
+com\maixuanviet\springboot\azure\AzureApplication.class
+com\maixuanviet\springboot\azure\UserRepository.class
+com\maixuanviet\springboot\azure\TestController.class
